@@ -1,0 +1,8 @@
+<p>game-control works!</p>
+<h2>Current score is: {{score}}</h2>
+<button (click)="startGame()">Start Game</button>
+<span> - </span>
+<button (click)="stopGame()">Stop Game</button>
+<span> - </span>
+<button (click)="resetGame()">Reset</button>
+<h3 *ngIf="gameStarted>0">Game is started</h3>
