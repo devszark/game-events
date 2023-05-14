@@ -1,3 +1,7 @@
+### Angular application
+## it emits event each one second which is then received and EVEN and ODD components are then created
+
+
 # AppNostrict
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
